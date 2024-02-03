@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku puzzle web app
+Sudoku puzzle web app.
